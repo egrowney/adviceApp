@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403969773890",
+    "project_id": "all-angles-be72b",
+    "storage_bucket": "all-angles-be72b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403969773890:android:9d29cb9258cf571eefb8db",
+        "android_client_info": {
+          "package_name": "com.example.advice_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403969773890-pu5rs7ok42s9udtfjhj5d5l9e78k44c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Tuj7ZIzeUumi8o2gb-P5T0B3hdWAAcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403969773890-pu5rs7ok42s9udtfjhj5d5l9e78k44c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
